@@ -1,0 +1,60 @@
+{
+  "elements": [
+    {
+      "id": "div0_0",
+      "container": "cont-left",
+      "box": "cont0box0_div0",
+      "drop": false,
+      "color": "aqua"
+    },
+    {
+      "id": "div0_1",
+      "container": "cont-left",
+      "box": "cont0box1_div1",
+      "drop": false,
+      "color": "aqua"
+    },
+    {
+      "id": "div0_2",
+      "container": "cont-left",
+      "box": "cont0box2_div2",
+      "drop": false,
+      "color": "aqua"
+    },
+    {
+      "id": "div0_3",
+      "container": "cont-left",
+      "box": "cont0box3_div3",
+      "drop": false,
+      "color": "aqua"
+    },
+    {
+      "id": "div1_0",
+      "container": "cont-right",
+      "box": "cont1box0_div0",
+      "drop": false,
+      "color": "aqua"
+    },
+    {
+      "id": "div1_1",
+      "container": "cont-right",
+      "box": "cont1box1_div1",
+      "drop": false,
+      "color": "aqua"
+    },
+    {
+      "id": "div1_2",
+      "container": "cont-right",
+      "box": "cont1box2_div2",
+      "drop": false,
+      "color": "aqua"
+    },
+    {
+      "id": "div1_3",
+      "container": "cont-right",
+      "box": "cont1box3_div3",
+      "drop": false,
+      "color": "aqua"
+    }
+  ]
+}
